@@ -1,0 +1,6 @@
+
+*.ini
+
+*.pov
+
+.ipynb_checkpoints/building_things_with_ase-checkpoint.ipynb
